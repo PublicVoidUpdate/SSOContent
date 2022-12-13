@@ -1,5 +1,7 @@
 {
     "files": [
-            
+        "Content/Character/Index.dat",
+        "Content/Maps/Index.dat",
+        "Content/NPCData/Index.dat"
     ]
 }
