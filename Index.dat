@@ -1,8 +1,8 @@
 {
-    "Audio":"Audio/",
-    "Content":"Content/",
-    "Audio":"Audio/",
-    "Data":"Data/",
-    "Saves":"Saves/",
-    "Manifest":"Manifest.json"
-} 
+    "tiles": [
+            "Manifest.json",
+            "Readme,info",
+            "Settings.dat",
+            "Version.info"
+    ]
+}
