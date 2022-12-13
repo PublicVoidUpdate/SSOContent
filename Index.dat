@@ -3,6 +3,7 @@
             "Manifest.json",
             "Readme.info",
             "Settings.dat",
-            "Version.info"
+            "Version.info",
+            "Content/Index.dat"
     ]
 }
