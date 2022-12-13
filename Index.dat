@@ -1,0 +1,8 @@
+{
+    "Audio":"Audio/",
+    "Content":"Content/",
+    "Audio":"Audio/",
+    "Data":"Data/",
+    "Saves":"Saves/",
+    "Manifest":"Manifest.json"
+} 
