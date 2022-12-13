@@ -1,7 +1,7 @@
 {
     "files": [
             "Manifest.json",
-            "Readme,info",
+            "Readme.info",
             "Settings.dat",
             "Version.info"
     ]
