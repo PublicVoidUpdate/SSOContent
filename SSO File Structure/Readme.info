@@ -1,0 +1,23 @@
+!Legacy file!
+2023-05-03
+#################################
+###    ##     ##      ###     ###
+###   #      #       #   #    ###
+###    ##     ##    #     #   ###
+###      #      #    #   #    ###
+###    ##     ##      ###     ###
+################################# 
+
+Hello! this is the readme for SSO! The only difference between modding and normal versions of the game, 
+is the included documentation. Both can handle mods, but the modding version has files detailing what each thing means.
+Modding is hardcoded, no loader required, all assets are accessible (see attached lisense for usage of sprites).
+All character files and tilemaps are also accessible. You may need to use the tilemap editor program to make and see tiles, 
+just because they arent really human readable. If you make irreversible damage to content forlder, just click the refresh button in the game.
+Different branche's content folders are different, my goal is to have the same game binary and update the content folders. 
+
+Saves need to have Tilemaps added to them during modding, they only copy form content/tilemaps/ during save creation. 
+After that you must manually transfer new tilemaps you want to use. You *will* lose progress of any tilemap you replace.
+This is so modded games won't curropt old worlds.
+
+
+If you encounter errors, include the Manifest.json file as it includes important context for your pc. 
